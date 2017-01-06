@@ -1,9 +1,11 @@
 #heading{
 	text-align: center;
-	
+	text-color: #FFFFFF;
 }
-#colorlinks{
-	color: #514f4a;
+#topimage{
+	text-align: center;
+}
+#everything{
 	
-	
+	background-color: #436575;
 }
